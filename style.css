@@ -1,0 +1,10 @@
+.main_numbers{
+    /* Кнопка включения/в строку */
+    display: flex;
+
+    /* По центру по горизонтали */
+    justify-content: center;
+
+    /* Промежуток */
+    gap: 65px;
+}
